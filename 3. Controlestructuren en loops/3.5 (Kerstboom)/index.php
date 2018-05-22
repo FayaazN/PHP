@@ -13,11 +13,14 @@
 <style>
     body {
         text-align: center;
+        color: green;
+
     }
 </style>
 <title>PHP</title>
 </head>
 <body>
+<h1> Merry Christmas !</h1>
 <?php
 for($i = 0; $i <=100; $i++) {
     for($j = 0; $j<$i; $j++){
